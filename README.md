@@ -1,10 +1,7 @@
-# University website
-==================================================================
-
-### *Team Members*
-
-- Akzhol Suborov
-- Aibek Karshiboev
+  University website
+Team Members:
+Akzhol Suborov
+Aibek Karshiboev
 
 ## Project Description
 
