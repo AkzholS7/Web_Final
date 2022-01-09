@@ -21,9 +21,21 @@ Here is the register window:
 
 ![7](https://user-images.githubusercontent.com/64955154/103049393-dafac300-45bb-11eb-8466-eabf48c7c2b9.PNG)
 
-Video feedback:
+Feedbaks:
+Great. Very good analogue to official university site. The site has a lot of information about news, events in university. But I suggest you to improve the design of site. Also I liked the registration form 
+Venera
+
+I will criticize the work which was creates by Aibek and Akzhol. This website was designed very cool. And it is awesome, I liked it. The site is about our university , it is created professionally.  I appreciate this work. I look forward to the same cool projects.
+Nuriza Paishan kyzy
+
+Very convenient and well-developed site.  I really liked the design of the site, all the colors are worked out very well, without any unnecessary things.  everything works fine.  I think everything is perfectly done if we will compare it with our level of programming.  Nice work, I like it.
+Nazim
+
+Video feedbacks:
 
 ![image](https://user-images.githubusercontent.com/73769876/148680660-7900f67d-cf57-4c05-b977-905ed7c011cf.png)
+![image](https://user-images.githubusercontent.com/73769876/148680713-5fff6916-c3d6-4f8b-983a-959cce80b88d.png)
+![image](https://user-images.githubusercontent.com/73769876/148680723-01fc3749-4cdf-49ef-9986-4af4d8285f53.png)
 
 Here is the database:
 
