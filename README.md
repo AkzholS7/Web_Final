@@ -33,9 +33,7 @@ Nazim
 
 Video feedbacks:
 
-![image](https://user-images.githubusercontent.com/73769876/148680660-7900f67d-cf57-4c05-b977-905ed7c011cf.png)
-![image](https://user-images.githubusercontent.com/73769876/148680713-5fff6916-c3d6-4f8b-983a-959cce80b88d.png)
-![image](https://user-images.githubusercontent.com/73769876/148680723-01fc3749-4cdf-49ef-9986-4af4d8285f53.png)
+
 
 Here is the database:
 
