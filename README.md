@@ -21,6 +21,10 @@ Here is the register window:
 
 ![7](https://user-images.githubusercontent.com/64955154/103049393-dafac300-45bb-11eb-8466-eabf48c7c2b9.PNG)
 
+Video feedback:
+
+![image](https://user-images.githubusercontent.com/73769876/148680660-7900f67d-cf57-4c05-b977-905ed7c011cf.png)
+
 Here is the database:
 
 ![8]()
