@@ -40,4 +40,4 @@ Here is the database:
 ### ***The link of our web application***
 
 
-> [Alatoo.kg]()
+> [Alatoo.kg](https://zhakyp01.github.io/alatoo/)
